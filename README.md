@@ -1,3 +1,18 @@
+ACPCore - ![Version](https://img.shields.io/cocoapods/p/ACPCore.svg?colorB=Red&style=plastic)
+![Version](https://img.shields.io/cocoapods/v/ACPCore.svg?colorB=red&style=plastic)
+<br>
+ACPAnalytics - ![Version](https://img.shields.io/cocoapods/p/ACPAnalytics.svg?colorB=Red&style=plastic)
+![Version](https://img.shields.io/cocoapods/v/ACPAnalytics.svg?colorB=red&style=plastic)
+<br>
+ACPTarget - ![Version](https://img.shields.io/cocoapods/p/ACPTarget.svg?colorB=Red&style=plastic)
+![Version](https://img.shields.io/cocoapods/v/ACPTarget.svg?colorB=red&style=plastic)
+<br>
+ACPUserProfile - ![Version](https://img.shields.io/cocoapods/p/ACPUserProfile.svg?colorB=Red&style=plastic)
+![Version](https://img.shields.io/cocoapods/v/ACPUserProfile.svg?colorB=red&style=plastic)
+
+
+
+
 # Adobe Experience Platform SDKs
 Home of the official Adobe Experience Platform (AEP) SDKs for mobile apps.
 
