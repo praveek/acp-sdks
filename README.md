@@ -3,6 +3,12 @@ Home of the official Adobe Experience Platform (AEP) SDKs for mobile apps.
 #### Cocoapods
 [![Version](https://img.shields.io/cocoapods/v/ACPCore.svg?colorB=red&style=plastic&label=ACPCore)](https://cocoapods.org/pods/ACPCore)
 [![Version](https://img.shields.io/cocoapods/v/ACPAnalytics.svg?colorB=red&style=plastic&label=ACPAnalytics)](https://cocoapods.org/pods/ACPAnalytics)
+[![Version](https://img.shields.io/cocoapods/v/ACPAudience.svg?colorB=red&style=plastic&label=ACPAudience)](https://cocoapods.org/pods/ACPAudience)
+[![Version](https://img.shields.io/cocoapods/v/ACPCampaignClassic.svg?colorB=red&style=plastic&label=ACPCampaignClassic)](https://cocoapods.org/pods/ACPCampaignClassic)
+[![Version](https://img.shields.io/cocoapods/v/ACPMedia.svg?colorB=red&style=plastic&label=ACPMedia)](https://cocoapods.org/pods/ACPMedia)
+[![Version](https://img.shields.io/cocoapods/v/ACPTarget.svg?colorB=red&style=plastic&label=ACPTarget)](https://cocoapods.org/pods/ACPTarget)
+[![Version](https://img.shields.io/cocoapods/v/ACPUserProfile.svg?colorB=red&style=plastic&label=ACPUserProfile)](https://cocoapods.org/pods/ACPUserProfile)
+
 
 #### Maven
 [![Version](https://img.shields.io/maven-central/v/com.adobe.marketing.mobile/sdk-core.svg?style=plastic&label=sdk-core)](https://mvnrepository.com/artifact/com.adobe.marketing.mobile/sdk-core)
