@@ -1,9 +1,16 @@
 # Adobe Experience Platform SDKs
 Home of the official Adobe Experience Platform (AEP) SDKs for mobile apps.
+#### Cocoapods
+[![Version](https://img.shields.io/cocoapods/v/ACPCore.svg?colorB=red&style=plastic&label=ACPCore)](https://cocoapods.org/pods/ACPCore)
+[![Version](https://img.shields.io/cocoapods/v/ACPAnalytics.svg?colorB=red&style=plastic&label=ACPAnalytics)](https://cocoapods.org/pods/ACPAnalytics)
+
+#### Maven
+[![Version](https://img.shields.io/maven-central/v/com.adobe.marketing.mobile/sdk-core.svg?style=plastic&label=sdk-core)](https://mvnrepository.com/artifact/com.adobe.marketing.mobile/sdk-core)
+[![Version](https://img.shields.io/maven-central/v/com.adobe.marketing.mobile/analytics.svg?style=plastic&label=analytics)](https://mvnrepository.com/artifact/com.adobe.marketing.mobile/analytics)
 
 | Extension | Current Versions |
 | --------- | ---------------- |
-| Core | [![Version](https://img.shields.io/cocoapods/v/ACPCore.svg?colorB=red&style=plastic)](https://cocoapods.org/pods/ACPCore) [![Version](https://img.shields.io/maven-central/v/com.adobe.marketing.mobile/sdk-core.svg?style=plastic)](https://mvnrepository.com/artifact/com.adobe.marketing.mobile/sdk-core) |
+| Core | [![Version](https://img.shields.io/cocoapods/v/ACPCore.svg?colorB=red&style=plastic&label=pod%20ACPCore)](https://cocoapods.org/pods/ACPCore) [![Version](https://img.shields.io/maven-central/v/com.adobe.marketing.mobile/sdk-core.svg?style=plastic)](https://mvnrepository.com/artifact/com.adobe.marketing.mobile/sdk-core) |
 | Analytics | [![Version](https://img.shields.io/cocoapods/v/ACPAnalytics.svg?colorB=red&style=plastic)](https://cocoapods.org/pods/ACPAnalytics) [![Version](https://img.shields.io/maven-central/v/com.adobe.marketing.mobile/analytics.svg?style=plastic)](https://mvnrepository.com/artifact/com.adobe.marketing.mobile/analytics) |
 | Audience Manager | [![Version](https://img.shields.io/cocoapods/v/ACPAudience.svg?colorB=red&style=plastic)](https://cocoapods.org/pods/ACPAudience) [![Version](https://img.shields.io/maven-central/v/com.adobe.marketing.mobile/audience.svg?style=plastic)](https://mvnrepository.com/artifact/com.adobe.marketing.mobile/audience) |
 | Campaign Classic | [![Version](https://img.shields.io/cocoapods/v/ACPCampaignClassic.svg?colorB=red&style=plastic)](https://cocoapods.org/pods/ACPCampaignClassic) [![Version](https://img.shields.io/maven-central/v/com.adobe.marketing.mobile/campaignclassic.svg?style=plastic)](https://mvnrepository.com/artifact/com.adobe.marketing.mobile/campaignclassic) |
